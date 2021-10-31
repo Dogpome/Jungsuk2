@@ -1,6 +1,6 @@
 package Ch0412;
 
-public class ch04_임의의정수0에서9 {
+public class ch04_임의의정수0에서9ex4_7 {
     public static void main(String[] args) {
         int num = 0;
         // 0~9사이의 정수 50개를 출력 하시오
