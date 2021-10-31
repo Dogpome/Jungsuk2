@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_printf {
     public static void main(String[] args) {
         System.out.println(10.0/3);

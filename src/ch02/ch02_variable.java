@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_variable {
     public static void main(String[] args) {
         //변수 - 변하는 수? 하나의 값을 저장할 수 있는 메모리 공간!

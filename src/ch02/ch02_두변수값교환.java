@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_두변수값교환 {
     // int x = 10, y=20;
     // x = y;

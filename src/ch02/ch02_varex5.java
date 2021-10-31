@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_varex5 {
     public static void main(String[] args) {
         System.out.printf("%d%n", 15); // 10진수

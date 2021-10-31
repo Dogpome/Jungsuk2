@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_varex4 {
     public static void main(String[] args) {
         int x = 4, y = 2;

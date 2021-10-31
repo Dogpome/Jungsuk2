@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_varex3 {
     public static void main(String[] args) {
         final int score = 100;

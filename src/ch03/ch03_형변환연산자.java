@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_형변환연산자 {
     // 3-7 형변환 연산자
     // 형 변환이란?

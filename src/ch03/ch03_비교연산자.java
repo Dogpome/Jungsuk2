@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_비교연산자 {
     // 두 피연ㅅ나자를 비교해서 true 또는 false를 반환
     // > 좌변이크면 true 아니면 false

@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_문자와문자열 {
     {
         // char ch = 'A';

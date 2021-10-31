@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_논리연산자 {
     // 조건식을 연결할 때 사용하는 연산자
     // ||(or결합) 피연산자 중 어느 한 쪽이 ture 이면 true를 결과로 얻는다.

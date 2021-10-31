@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_나머지연산자 {
     public static void main(String[] args) {
         int x = 10;

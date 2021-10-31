@@ -1,3 +1,5 @@
+package ch02;
+
 public class ch02_리터럴 {
     // 논리형 false, true
     // 정수형, 실수형이 타입이 여러개, 접미사를 붙여 구별

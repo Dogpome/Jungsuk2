@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_증감연산자예제 {
     public static void main(String[] args) {
         int i=5, j=0;

@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_반올림예제 {
     public static void main(String[] args) {
      double pi = 3.141592;

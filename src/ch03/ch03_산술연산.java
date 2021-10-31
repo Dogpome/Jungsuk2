@@ -1,3 +1,5 @@
+package ch03;
+
 public class ch03_산술연산 {
     public static void main(String[] args) {
         int a = 1_000_000; // 1백만
