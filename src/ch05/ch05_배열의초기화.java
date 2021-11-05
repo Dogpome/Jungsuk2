@@ -2,8 +2,8 @@ package ch05;
 
 public class ch05_배열의초기화 {
     // 배열의 각 요소에 처음으로 값을 저장하는 것.
-    // 배열을 왜 만드는데? 값을 저장하려고.
-    public static void main(String[] args) {
+            // 배열을 왜 만드는데? 값을 저장하려고.
+            public static void main(String[] args) {
 
         int[] score = new int[5]; // 길이가 5인 int 배열 생성선언
         // 0~4까지 생성됨.
