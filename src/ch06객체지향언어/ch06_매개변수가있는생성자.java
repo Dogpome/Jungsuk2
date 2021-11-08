@@ -1,11 +1,14 @@
 package ch06객체지향언어;
 
-class  Car {
+class Car {
     String color; // 색상
     String gearType; // 변속기 종료 -- auto, manual
     int door; // 문의 개수
 
-    Car() {} // 기본 생성자
+    Car() {
+
+    } // 기본 생성자
+
     Car(String c, String g, int d) { // 매개변수가 있는 생성자
         color = c;
         gearType = g; // 변속기 종료 -- auto, manual
@@ -21,5 +24,12 @@ class  Car {
 
     }
 
+    public static void main(String[] args) {
+        Car car = new Car();
+        System.out.println(car.color);
+
+        Car car2 = new Car("red", "automatic", 4);
+        System.out.println(car2.color);
+    }
 
 }
